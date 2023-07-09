@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Indrajith vs</h1>
+<h1 align="center">Hi, I'm Indrajith vs</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-👨‍💻 Check my Website :) https://indrajithvs.me<br><br>💬 Ask me about Django, Android, Python<br><br>📫 How to reach me indrajith.vs2016gmail.com<br><br>⚡ Fun fact I think I am Professional
+👨‍💻 Check my Website :) https://indrajithvs.me<br><br>💬 Ask me about Django, Android, Python<br><br>📫 How to reach me indrajith.vs2016@gmail.com<br><br>⚡ Fun fact I think I am Professional
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
