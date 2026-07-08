@@ -1,11 +1,47 @@
-# Indrajith VS
+# Hi, I'm Indrajith V S 👋
 
-Frappe/ERPNext Developer
+**ERPNext & Frappe Developer**
 
-Building custom applications, print formats, and integrations for ERPNext clients, with a working stack spanning Python, JavaScript, Vue.js, and Flutter.
+I'm a software developer from Kerala, India, with **3+ years of experience** building and customizing ERPNext solutions using the Frappe Framework. I enjoy developing scalable business applications, automating workflows, integrating third-party services, and writing clean, maintainable code.
 
-**Areas of expertise:** Frappe · ERPNext · Django · Python · Vue.js · Flutter
+---
 
-**Contact:** indrajith.vs2016@gmail.com · [indrajithvs.me](https://indrajithvs.me)
+## Tech Stack
 
-**Profiles:** [LinkedIn](https://www.linkedin.com/in/indrajith-vs) · [Stack Overflow](https://stackoverflow.com/users/18769466/gubbu) · [Twitter](https://twitter.com/Indraji18724719)
+**Languages**
+
+Python • JavaScript • SQL • HTML • CSS
+
+**Frameworks**
+
+Frappe Framework • ERPNext • Django
+
+**Databases**
+
+MariaDB • MySQL • MongoDB
+
+
+---
+
+## Expertise
+
+- ERPNext Implementation & Customization
+- Custom App Development
+- REST API Development & Integrations
+- Workflow Automation
+- HRMS, CRM & Business Process Automation
+- Print Formats & Reports
+- Performance Optimization
+- Server Deployment & Maintenance
+
+---
+
+## Connect
+
+🌐 **Website:** https://indrajithvs.me
+
+💼 **LinkedIn:** https://linkedin.com/in/indrajith-vs
+
+📧 **Email:** indrajith.vs2016@gmail.com
+
+---
